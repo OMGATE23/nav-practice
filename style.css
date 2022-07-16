@@ -23,7 +23,7 @@ header h1 {
     width: 90%;
     max-width: 900px;
     margin: 0 auto;
-    border: 1px solid black;
+
 }
 
 .container-nav {
@@ -44,9 +44,8 @@ nav ul {
 
 nav li {
     margin-left: 2em;
+    text-align: center;
 }
-
-
 
 nav a {
     text-decoration: none;
