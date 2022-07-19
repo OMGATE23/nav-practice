@@ -111,6 +111,13 @@ header {
 footer {
     background: #143774;
     color: white;
+    text-align: center;
+    padding: 2em;
+    
+}
+
+.footer-title {
+    font-weight: 700;
 }
 
 @media (min-width : 675px) {
